@@ -2,5 +2,6 @@ def bar():
     pass
 
 
-def func():
+def foo():
     pass
+
